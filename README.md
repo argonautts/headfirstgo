@@ -1,0 +1,2 @@
+# Headfirst golang
+GL HF!
